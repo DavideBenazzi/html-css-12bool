@@ -6,6 +6,7 @@ body {
   background: dodgerblue;
   padding: 10px;
   border: 1px solid rgba(0, 0, 0, 0.1);
+  margin: 10px 0 10px;
 }
 
 h1 {
